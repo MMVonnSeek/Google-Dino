@@ -17,3 +17,4 @@ Now, let’s say you’ve been playing for 25 minutes and you want to stop the g
 Remember the first code we entered? That stored the normal gameOver function in the original variable. That means we can now execute this command to use the normal gameOver function:
 Runner.prototype.gameOver = original
 
+![Dino](https://user-images.githubusercontent.com/89359847/176738661-7979cf12-ed76-4c08-a50b-7b5168e69799.png)

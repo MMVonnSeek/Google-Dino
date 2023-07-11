@@ -18,3 +18,6 @@ Remember the first code we entered? That stored the normal gameOver function in 
 Runner.prototype.gameOver = original
 
 ![Dino](https://user-images.githubusercontent.com/89359847/176738661-7979cf12-ed76-4c08-a50b-7b5168e69799.png)
+
+
+![octocat-1689078816427](https://github.com/MMVonnSeek/Google-Dino/assets/89359847/1871cc8e-46c4-492f-9967-57ed69af1d6c)
